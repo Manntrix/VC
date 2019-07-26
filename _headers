@@ -7,29 +7,29 @@
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /homepage/
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /1914-translation-by-h-rackham/
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /the-standard-lorem-ipsum-passage-used-since-the-1500s/
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /categories/uncategorized/
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /tags/rack/
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /author/admin
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /404/
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-b42618470223e50d3053.js>; rel=preload; as=script
+  Link: </webpack-runtime-c0a391cb821196f0db79.js>; rel=preload; as=script
   Link: </0-dab8f8de978219f2e507.js>; rel=preload; as=script
